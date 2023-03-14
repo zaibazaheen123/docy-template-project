@@ -1,0 +1,37 @@
+#breadcrumb{
+    background-color: rgba(143, 155, 196, 0.295);
+}
+#background{
+   background-image:url('https://www.newgenapps.com/hubfs/Imported_Blog_Media/Website-Design-Background-Feb-09-2022-03-13-55-73-AM.png');
+   height:700px;
+   background-size: cover;
+}
+#navbar,#nav{
+    color:white;
+    font-size:14px;
+}
+#button{
+    color: white;
+}
+#row{
+    background-color: rgb(57, 57, 201);
+}
+#boximg{
+    float:left;
+    margin-top: 70px;
+    margin-right: 20px;
+    background-color: aliceblue;
+    background-color:rgba(70, 75, 92, 0.295);
+}
+#myTabContent{
+    box-shadow: 5px 5px 5px 5px rgb(221, 219, 219);
+    margin-top: 60px; 
+    width: 930px; 
+    background-color:rgba(68, 73, 90, 0.295);
+}
+#bg{
+    background-color:rgba(68, 73, 90, 0.295);
+}
+#code{
+    background-color: #5b849933;
+}
